@@ -1,0 +1,8 @@
+##This is a markdown document
+
+This is my first markdown file on *Coursera*,It is a **whole new experience**
+
+There is a youtube video introduce some functions of markdown file
+
+[Introduction to R markdown](https://www.youtube.com/watch?v=-apyD5f9nwg)
+
